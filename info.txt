@@ -1,0 +1,5 @@
+Gabino Alonso Zatarain Jimenez
+12/03/2026
+aprender a manejar githob
+
+Es una solicitud de integración. Le avisas al dueño del proyecto que has terminado tus cambios en una rama (como la tuya de feature) y le pides permiso para "jalar" (pull) esos cambios hacia la rama principal.
