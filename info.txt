@@ -1,5 +1,6 @@
-Gabino Alonso Zatarain Jimenez
-12/03/2026
-aprender a manejar githob
+Nombre del alumno: Gabino Alonso Zatarain Jim�nez
+Fecha: 12 de marzo de 2026
+Objetivo de la actividad: Practicar el flujo de trabajo colaborativo en GitHub, incluyendo la creaci�n de ramas, edici�n de archivos y gesti�n de Pull Requests.
+�Qu� es un Pull Request?: Es una petici�n para que el due�o de un repositorio o una rama principal revise los cambios propuestos en una rama secundaria y decida si los incorpora (fusiona) al proyecto original.
 
-Es una solicitud de integración. Le avisas al dueño del proyecto que has terminado tus cambios en una rama (como la tuya de feature) y le pides permiso para "jalar" (pull) esos cambios hacia la rama principal.
+
