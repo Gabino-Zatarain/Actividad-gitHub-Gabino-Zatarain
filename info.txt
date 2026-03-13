@@ -1,4 +1,6 @@
-Nombre del alumno: Gabino Alonso Zatarain Jiménez
+Nombre del alumno: Gabino Alonso Zatarain Jimï¿½nez
 Fecha: 12 de marzo de 2026
-Objetivo de la actividad: Practicar el flujo de trabajo colaborativo en GitHub, incluyendo la creación de ramas, edición de archivos y gestión de Pull Requests.
-¿Qué es un Pull Request?: Es una petición para que el dueño de un repositorio o una rama principal revise los cambios propuestos en una rama secundaria y decida si los incorpora (fusiona) al proyecto original.
+Objetivo de la actividad: Practicar el flujo de trabajo colaborativo en GitHub, incluyendo la creaciï¿½n de ramas, ediciï¿½n de archivos y gestiï¿½n de Pull Requests.
+ï¿½Quï¿½ es un Pull Request?: Es una peticiï¿½n para que el dueï¿½o de un repositorio o una rama principal revise los cambios propuestos en una rama secundaria y decida si los incorpora (fusiona) al proyecto original.
+
+
